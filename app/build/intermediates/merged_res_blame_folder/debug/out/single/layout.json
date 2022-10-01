@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/son-yunji/.gradle/daemon/7.4/com.example.hwae_word4you.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "/Users/son-yunji/.gradle/daemon/7.4/com.example.hwae_word4you.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/son-yunji/.gradle/daemon/7.4/com.example.hwae_word4you.app-mergeDebugResources-25:/layout/custom_dialog.xml",
+        "source": "/Users/son-yunji/.gradle/daemon/7.4/com.example.hwae_word4you.app-main-28:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.hwae_word4you.app-mergeDebugResources-25:/layout/custom_dialog.xml",
+        "source": "com.example.hwae_word4you.app-main-28:/layout/custom_dialog.xml"
+    }
+]
